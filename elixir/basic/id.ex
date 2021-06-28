@@ -1,9 +1,7 @@
-
-
 result = IO.puts("Hello Word!!")
 IO.puts(result)
 
-r = "Name: "
-name =  IO.gets(r)
+message = "Name: "
+name = IO.gets(message)
 
 IO.puts(name)
